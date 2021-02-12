@@ -1,8 +1,8 @@
 {
-    "name": "quickly github1s",
+    "name": "shortcut to github1s",
     "version": "0.1",
     "manifest_version": 3,
-    "description": "Launch github1s with shortcut keys",
+    "description": "Launch github1s with Ctrl(Win)/Command(Mac)+Shift+1.",
     "icons": {
         "16": "quick_github1s.ico",
         "48": "quick_github1s.ico",
@@ -14,7 +14,7 @@
     },
     "action": {
         "default_icon": "quick_github1s.ico",
-        "default_title": "quickly github1s"
+        "default_title": "shortcut to github1s"
     },
     "commands": {
         "quickLaunch": {
