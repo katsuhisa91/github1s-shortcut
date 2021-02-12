@@ -1,4 +1,4 @@
-chrome.browserAction.onClicked.addListener(function(tab) {
+chrome.action.onClicked.addListener(function(tab) {
     chrome.tabs.executeScript(tab.id, {file: "github1s.js"})
 });
 
