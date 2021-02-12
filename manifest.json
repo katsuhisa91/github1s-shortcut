@@ -30,7 +30,7 @@
         "activeTab"
     ],
     "host_permissions": [
-        "http://github.com/",
-        "*://*/*"
+        "https://github.com/*",
+        "https://github1s.com/*"
     ]
 }
