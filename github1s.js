@@ -1,0 +1,1 @@
+window.location.href = window.location.href.replace('github.com', 'github1s.com')
