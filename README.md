@@ -5,4 +5,10 @@ Launch [github1s](https://github.com/conwnet/github1s) with Ctrl(Win)/Command(Ma
 
 ![gif ... shortcut to github1s](https://raw.github.com/katsuhisa91/just-ffmpeg-actions/main/gif/shortcut-to-github1s.gif)
 
+## How to install
+Just install Chrome Extension :rocket:
+
 [Web Store URL](https://chrome.google.com/webstore/detail/shortcut-to-github1s/gfcdbodapcbfckbfpmgeldfkkgjknceo)
+
+## Author
+[Katsuhisa Kitano](https://twitter.com/katsuhisa__)
