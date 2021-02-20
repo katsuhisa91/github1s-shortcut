@@ -1,6 +1,7 @@
 ![shortcut to github1s](https://raw.githubusercontent.com/katsuhisa91/github1s-shortcut/main/resources/quick_github1s.ico)
 
-# Chrome Extensions - Shortcut to GitHub1s 
+# Chrome Extensions - Shortcut to GitHub1s [![Create Archive](https://github.com/katsuhisa91/github1s-shortcut/actions/workflows/zip_release.yml/badge.svg)](https://github.com/katsuhisa91/github1s-shortcut/actions/workflows/zip_release.yml)
+
 Launch [github1s](https://github.com/conwnet/github1s) with Ctrl(Win)/Command(Mac)+Shift+1.
 
 ![gif ... shortcut to github1s](https://raw.github.com/katsuhisa91/just-ffmpeg-actions/main/gif/shortcut-to-github1s.gif)
