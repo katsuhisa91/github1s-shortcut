@@ -4,7 +4,7 @@
 
 Launch [github1s](https://github.com/conwnet/github1s) with Ctrl(Win)/Command(Mac)+Shift+1.
 
-![gif ... shortcut to github1s](https://raw.github.com/katsuhisa91/just-ffmpeg-actions/main/processed/shortcut-to-github1s.gif)
+![gif ... shortcut to github1s](https://raw.githubusercontent.com/katsuhisa91/just-ffmpeg-actions/main/processed/shortcut-to-github1s.gif)
 
 ## How to install
 Just install Chrome Extension :rocket:
