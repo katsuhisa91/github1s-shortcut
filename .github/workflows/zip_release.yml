@@ -14,7 +14,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'release.zip'
-        exclusions: '*.git* README.md'
+        exclusions: '*.git* README.md LICENSE'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
