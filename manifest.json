@@ -27,7 +27,8 @@
     },
 
     "permissions": [
-        "activeTab"
+        "activeTab",
+        "scripting"
     ],
     "host_permissions": [
         "https://github.com/*",

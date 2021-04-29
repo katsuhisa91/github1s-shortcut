@@ -1,7 +1,15 @@
-chrome.action.onClicked.addListener(function(tab) {
-    chrome.tabs.executeScript(tab.id, {file: "github1s.js"})
+chrome.action.onClicked.addListener((tab) => {
+    chrome.scripting.executeScript({
+        target: {tabId: tab.id},
+        files: ["github1s.js"]
+    });
 });
 
-chrome.commands.onCommand.addListener(function(tab) {
-    chrome.tabs.executeScript(tab.id, {file: "github1s.js"})
+chrome.commands.onCommand.addListener(() => {
+    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+        chrome.scripting.executeScript({
+            target: {tabId: tabs[0].id},
+            files: ["github1s.js"]
+        });
+    });
 });
